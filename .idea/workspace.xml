@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18da25e5-5cc4-4363-81bd-f008e1c44749" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1S41DHpxqXdoombfONxAEnmvHN9" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../twitterdemo" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ahmed.mnif\IdeaProjects\spark-tutorials\in" />
+      <recent name="C:\Users\ahmed.mnif\IdeaProjects\spark-tutorials\src\main\scala" />
+      <recent name="C:\Users\ahmed.mnif\IdeaProjects\spark-tutorials" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Sparkdatalake">
+    <configuration name="CleanMovies" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dataframe.movielens.CleanMovies" />
+      <module name="spark-tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataframe.movielens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListOfDistinctGenres" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="rdd.movielens.ListOfDistinctGenres" />
+      <module name="spark-tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rdd.movielens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoviesStartingWithLetterOrDigit" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="rdd.movielens.MoviesStartingWithLetterOrDigit" />
+      <module name="spark-tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rdd.movielens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sparkdatalake" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sparkSql.movielens.Sparkdatalake" />
+      <module name="spark-tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sparkSql.movielens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Top10MostViewedMovies" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="rdd.movielens.Top10MostViewedMovies" />
+      <module name="spark-tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rdd.movielens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sparkdatalake" />
+        <item itemvalue="Application.CleanMovies" />
+        <item itemvalue="Application.Top10MostViewedMovies" />
+        <item itemvalue="Application.MoviesStartingWithLetterOrDigit" />
+        <item itemvalue="Application.ListOfDistinctGenres" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="spark-tutorials" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="spark-tutorials [file:/C:/Users/ahmed.mnif/IdeaProjects/spark-tutorials/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="spark-tutorials-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3142023706239" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3770979585" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2868604264" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18da25e5-5cc4-4363-81bd-f008e1c44749" name="Default Changelist" comment="" />
+      <created>1570807932700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570807932700</updated>
+    </task>
+    <servers />
+  </component>
+</project>
