@@ -1,8 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18da25e5-5cc4-4363-81bd-f008e1c44749" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="18da25e5-5cc4-4363-81bd-f008e1c44749" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/in.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Top-10-CSV/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Top-10-CSV/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Top-10-CSV/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Top-10-CSV/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/airports_by_latitude.text/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/airports_by_latitude.text/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/airports_by_latitude.text/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/airports_by_latitude.text/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/airports_by_latitude.text/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/airports_by_latitude.text/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/result-csv/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/result-csv/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/result-csv/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/result-csv/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/result/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/result/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/result/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/result/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/result/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/result/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/movies/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/movies/.part-00000-aea00d62-844f-4b0e-9927-f0c0271ec4ed-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/movies/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/movies/part-00000-aea00d62-844f-4b0e-9927-f0c0271ec4ed-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/ratings/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/ratings/.part-00000-bc71adff-9a87-4e80-a77f-d5e1c8ae89a5-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/ratings/.part-00001-bc71adff-9a87-4e80-a77f-d5e1c8ae89a5-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/ratings/.part-00002-bc71adff-9a87-4e80-a77f-d5e1c8ae89a5-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/ratings/.part-00003-bc71adff-9a87-4e80-a77f-d5e1c8ae89a5-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/ratings/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/ratings/part-00000-bc71adff-9a87-4e80-a77f-d5e1c8ae89a5-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/ratings/part-00001-bc71adff-9a87-4e80-a77f-d5e1c8ae89a5-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/ratings/part-00002-bc71adff-9a87-4e80-a77f-d5e1c8ae89a5-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/ratings/part-00003-bc71adff-9a87-4e80-a77f-d5e1c8ae89a5-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/users/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/users/.part-00000-3927bb7e-d5dc-442a-9f37-c5be8b3cbc2e-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/users/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-warehouse/sparkdatalake.db/users/part-00000-3927bb7e-d5dc-442a-9f37-c5be8b3cbc2e-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/dataframe/testdatframe.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/dataframe/testdatframe.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/dataframe/testdatframe$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/dataframe/testdatframe$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/dataframe/testdatframe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/dataframe/testdatframe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/update/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/update/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.11/output" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,12 +72,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1S41DHpxqXdoombfONxAEnmvHN9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../twitterdemo" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -41,38 +100,13 @@
       <recent name="C:\Users\ahmed.mnif\IdeaProjects\spark-tutorials" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Sparkdatalake">
+  <component name="RunManager" selected="Application.testdatframe">
     <configuration name="CleanMovies" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="dataframe.movielens.CleanMovies" />
       <module name="spark-tutorials" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="dataframe.movielens.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListOfDistinctGenres" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="rdd.movielens.ListOfDistinctGenres" />
-      <module name="spark-tutorials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rdd.movielens.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,13 +153,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="testdatframe" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dataframe.testdatframe" />
+      <module name="spark-tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataframe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testdatframe" />
         <item itemvalue="Application.Sparkdatalake" />
         <item itemvalue="Application.CleanMovies" />
         <item itemvalue="Application.Top10MostViewedMovies" />
         <item itemvalue="Application.MoviesStartingWithLetterOrDigit" />
-        <item itemvalue="Application.ListOfDistinctGenres" />
       </list>
     </recent_temporary>
   </component>
@@ -156,10 +203,21 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3142023706239" />
         <entry key="$PROJECT_DIR$/build.sbt" value="3770979585" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="2868604264" />
       </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -174,5 +232,24 @@
       <updated>1570807932700</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1578579848707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1578579848707" />
   </component>
 </project>
